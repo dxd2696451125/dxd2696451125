@@ -1,16 +1,37 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html>
 
-<!--
-**dxd2696451125/dxd2696451125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<head>
+  <style>
+    table {
+      border-collapse: collapse;
+    }
 
-Here are some ideas to get you started:
+    table,
+    th,
+    td {
+      border: 1px solid black;
+    }
+  </style>
+</head>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<body>
+  <table>
+    <caption>个人简历</caption>
+    <tr>
+      <td>姓名</td>
+      <td>张三</td>
+      <td>性别</td>
+      <td>男</td>
+    </tr>
+    <tr>
+      <td>年龄</td>
+      <td>25</td>
+      <td>籍贯</td>
+      <td>北京</td>
+    </tr>
+    <!-- 可继续补充学历、工作经历等更多简历信息 -->
+  </table>
+</body>
+
+</html>
